@@ -1,5 +1,4 @@
 # my-website
 
 - some thing new added.
-- now eddting in update-read me branch
-- updated Locally. then remote
+- updating made on master on github before rebase
