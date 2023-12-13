@@ -2,4 +2,4 @@
 
 - some thing new added.
 - now eddting in update-read me branch
-- updated Locally.
+- updated Locally. then remote
